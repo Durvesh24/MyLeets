@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Durvesh24/MyLeets/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Durvesh24/MyLeets/tree/master/0231-power-of-two) |
 ## Recursion
 |  |

@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Durvesh24/MyLeets/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/Durvesh24/MyLeets/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Durvesh24/MyLeets/tree/master/0283-move-zeroes) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Durvesh24/MyLeets/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Durvesh24/MyLeets/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Durvesh24/MyLeets/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |

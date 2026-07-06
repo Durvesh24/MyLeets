@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Durvesh24/MyLeets/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Durvesh24/MyLeets/tree/master/0231-power-of-two) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Durvesh24/MyLeets/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2427-number-of-common-factors](https://github.com/Durvesh24/MyLeets/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Durvesh24/MyLeets/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3895-count-digit-appearances](https://github.com/Durvesh24/MyLeets/tree/master/3895-count-digit-appearances) |
 ## Recursion
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Durvesh24/MyLeets/tree/master/2180-count-integers-with-even-digit-sum) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Durvesh24/MyLeets/tree/master/2427-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Durvesh24/MyLeets/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->

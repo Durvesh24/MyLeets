@@ -1,6 +1,4 @@
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
         m = len(nums)
-        for i in range(m+1):
-            if i not in nums:
-                return i
+        return (m*(m+1) // 2) - sum(nums)

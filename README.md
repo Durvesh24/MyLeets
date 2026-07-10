@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Durvesh24/MyLeets/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Durvesh24/MyLeets/tree/master/0521-longest-uncommon-subsequence-i) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Durvesh24/MyLeets/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2351-first-letter-to-appear-twice](https://github.com/Durvesh24/MyLeets/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Durvesh24/MyLeets/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Durvesh24/MyLeets/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Durvesh24/MyLeets/tree/master/0287-find-the-duplicate-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/Durvesh24/MyLeets/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Durvesh24/MyLeets/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Durvesh24/MyLeets/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Durvesh24/MyLeets/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/Durvesh24/MyLeets/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,4 +111,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Durvesh24/MyLeets/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/Durvesh24/MyLeets/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->

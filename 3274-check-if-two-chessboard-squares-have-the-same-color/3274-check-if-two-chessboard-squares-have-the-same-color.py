@@ -1,0 +1,17 @@
+class Solution:
+    def checkTwoChessboards(self, coordinate1: str, coordinate2: str) -> bool:
+        def checkTile(coordinates):
+            odds = ['a', 'c', 'e', 'g']
+            n = int(coordinates[1])
+            if coordinates[0] in odds:
+                if n%2 != 0:
+                    return False
+            else:
+                if n%2 == 0:
+                    return False 
+            return True
+        return checkTile(coordinate1)==checkTile(coordinate2)
+
+
+
+        

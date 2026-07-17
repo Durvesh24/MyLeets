@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Durvesh24/MyLeets/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Durvesh24/MyLeets/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Durvesh24/MyLeets/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Durvesh24/MyLeets/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3895-count-digit-appearances](https://github.com/Durvesh24/MyLeets/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/Durvesh24/MyLeets/tree/master/3925-concatenate-array-with-reverse) |
 ## String
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Durvesh24/MyLeets/tree/master/2427-number-of-common-factors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Durvesh24/MyLeets/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |

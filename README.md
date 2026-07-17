@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Durvesh24/MyLeets/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Durvesh24/MyLeets/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2351-first-letter-to-appear-twice](https://github.com/Durvesh24/MyLeets/tree/master/2351-first-letter-to-appear-twice) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Durvesh24/MyLeets/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/Durvesh24/MyLeets/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Durvesh24/MyLeets/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3099-harshad-number](https://github.com/Durvesh24/MyLeets/tree/master/3099-harshad-number) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Durvesh24/MyLeets/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3516-find-closest-person](https://github.com/Durvesh24/MyLeets/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Durvesh24/MyLeets/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Durvesh24/MyLeets/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |

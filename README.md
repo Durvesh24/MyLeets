@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Durvesh24/MyLeets/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Durvesh24/MyLeets/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Durvesh24/MyLeets/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Durvesh24/MyLeets/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Durvesh24/MyLeets/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Durvesh24/MyLeets/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3151-special-array-i](https://github.com/Durvesh24/MyLeets/tree/master/3151-special-array-i) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Durvesh24/MyLeets/tree/master/0268-missing-number) |
 | [1323-maximum-69-number](https://github.com/Durvesh24/MyLeets/tree/master/1323-maximum-69-number) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Durvesh24/MyLeets/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Durvesh24/MyLeets/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Durvesh24/MyLeets/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2427-number-of-common-factors](https://github.com/Durvesh24/MyLeets/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Durvesh24/MyLeets/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Durvesh24/MyLeets/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Durvesh24/MyLeets/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Durvesh24/MyLeets/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table

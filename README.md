@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Durvesh24/MyLeets/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/Durvesh24/MyLeets/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Durvesh24/MyLeets/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/Durvesh24/MyLeets/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Durvesh24/MyLeets/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Durvesh24/MyLeets/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Durvesh24/MyLeets/tree/master/0287-find-the-duplicate-number) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Durvesh24/MyLeets/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/Durvesh24/MyLeets/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Durvesh24/MyLeets/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Durvesh24/MyLeets/tree/master/0268-missing-number) |
 | [1323-maximum-69-number](https://github.com/Durvesh24/MyLeets/tree/master/1323-maximum-69-number) |
@@ -104,12 +106,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Durvesh24/MyLeets/tree/master/0204-count-primes) |
 | [1995-count-special-quadruplets](https://github.com/Durvesh24/MyLeets/tree/master/1995-count-special-quadruplets) |
 | [2427-number-of-common-factors](https://github.com/Durvesh24/MyLeets/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Durvesh24/MyLeets/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Durvesh24/MyLeets/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Durvesh24/MyLeets/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Durvesh24/MyLeets/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Durvesh24/MyLeets/tree/master/3658-gcd-of-odd-and-even-sums) |

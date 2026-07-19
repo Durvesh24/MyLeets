@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Durvesh24/MyLeets/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/Durvesh24/MyLeets/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Durvesh24/MyLeets/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/Durvesh24/MyLeets/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Durvesh24/MyLeets/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Durvesh24/MyLeets/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Durvesh24/MyLeets/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Durvesh24/MyLeets/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/Durvesh24/MyLeets/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Durvesh24/MyLeets/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Durvesh24/MyLeets/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer

@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Durvesh24/MyLeets/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Durvesh24/MyLeets/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Durvesh24/MyLeets/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Durvesh24/MyLeets/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Durvesh24/MyLeets/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/Durvesh24/MyLeets/tree/master/0372-super-pow) |
 | [1323-maximum-69-number](https://github.com/Durvesh24/MyLeets/tree/master/1323-maximum-69-number) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Durvesh24/MyLeets/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Durvesh24/MyLeets/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
 | ------- |

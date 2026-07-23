@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Durvesh24/MyLeets/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Durvesh24/MyLeets/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Durvesh24/MyLeets/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Durvesh24/MyLeets/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Durvesh24/MyLeets/tree/master/1480-running-sum-of-1d-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Durvesh24/MyLeets/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Durvesh24/MyLeets/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Durvesh24/MyLeets/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Durvesh24/MyLeets/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/Durvesh24/MyLeets/tree/master/0372-super-pow) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Durvesh24/MyLeets/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/Durvesh24/MyLeets/tree/master/1323-maximum-69-number) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Durvesh24/MyLeets/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Durvesh24/MyLeets/tree/master/1979-find-greatest-common-divisor-of-array) |

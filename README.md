@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Durvesh24/MyLeets/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Durvesh24/MyLeets/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Durvesh24/MyLeets/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2235-add-two-integers](https://github.com/Durvesh24/MyLeets/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/Durvesh24/MyLeets/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Durvesh24/MyLeets/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Durvesh24/MyLeets/tree/master/2652-sum-multiples) |

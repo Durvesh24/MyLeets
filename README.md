@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/Durvesh24/MyLeets/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2427-number-of-common-factors](https://github.com/Durvesh24/MyLeets/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Durvesh24/MyLeets/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2652-sum-multiples](https://github.com/Durvesh24/MyLeets/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/Durvesh24/MyLeets/tree/master/3099-harshad-number) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Durvesh24/MyLeets/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3516-find-closest-person](https://github.com/Durvesh24/MyLeets/tree/master/3516-find-closest-person) |

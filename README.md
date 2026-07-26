@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Durvesh24/MyLeets/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Durvesh24/MyLeets/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Durvesh24/MyLeets/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/Durvesh24/MyLeets/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Durvesh24/MyLeets/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Durvesh24/MyLeets/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Durvesh24/MyLeets/tree/master/0204-count-primes) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Durvesh24/MyLeets/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Durvesh24/MyLeets/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/Durvesh24/MyLeets/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Durvesh24/MyLeets/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Durvesh24/MyLeets/tree/master/0231-power-of-two) |

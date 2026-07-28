@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Durvesh24/MyLeets/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1773-count-items-matching-a-rule](https://github.com/Durvesh24/MyLeets/tree/master/1773-count-items-matching-a-rule) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Durvesh24/MyLeets/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Durvesh24/MyLeets/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Durvesh24/MyLeets/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2351-first-letter-to-appear-twice](https://github.com/Durvesh24/MyLeets/tree/master/2351-first-letter-to-appear-twice) |
 | [3019-number-of-changing-keys](https://github.com/Durvesh24/MyLeets/tree/master/3019-number-of-changing-keys) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Durvesh24/MyLeets/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/Durvesh24/MyLeets/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Durvesh24/MyLeets/tree/master/1920-build-array-from-permutation) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Durvesh24/MyLeets/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Durvesh24/MyLeets/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/Durvesh24/MyLeets/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [3925-concatenate-array-with-reverse](https://github.com/Durvesh24/MyLeets/tree/master/3925-concatenate-array-with-reverse) |

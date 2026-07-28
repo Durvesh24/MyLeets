@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/Durvesh24/MyLeets/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Durvesh24/MyLeets/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3151-special-array-i](https://github.com/Durvesh24/MyLeets/tree/master/3151-special-array-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Durvesh24/MyLeets/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3895-count-digit-appearances](https://github.com/Durvesh24/MyLeets/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/Durvesh24/MyLeets/tree/master/3925-concatenate-array-with-reverse) |
 ## String
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/Durvesh24/MyLeets/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/Durvesh24/MyLeets/tree/master/3099-harshad-number) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Durvesh24/MyLeets/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Durvesh24/MyLeets/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3516-find-closest-person](https://github.com/Durvesh24/MyLeets/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/Durvesh24/MyLeets/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Durvesh24/MyLeets/tree/master/3658-gcd-of-odd-and-even-sums) |

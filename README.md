@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Durvesh24/MyLeets/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Durvesh24/MyLeets/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/Durvesh24/MyLeets/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/Durvesh24/MyLeets/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Durvesh24/MyLeets/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Durvesh24/MyLeets/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Durvesh24/MyLeets/tree/master/0263-ugly-number) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Durvesh24/MyLeets/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Durvesh24/MyLeets/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Durvesh24/MyLeets/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/Durvesh24/MyLeets/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Durvesh24/MyLeets/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Durvesh24/MyLeets/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Durvesh24/MyLeets/tree/master/0344-reverse-string) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Durvesh24/MyLeets/tree/master/0041-first-missing-positive) |
+| [0202-happy-number](https://github.com/Durvesh24/MyLeets/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Durvesh24/MyLeets/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Durvesh24/MyLeets/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Durvesh24/MyLeets/tree/master/0442-find-all-duplicates-in-an-array) |

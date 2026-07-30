@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Durvesh24/MyLeets/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-transpose-matrix](https://github.com/Durvesh24/MyLeets/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Durvesh24/MyLeets/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Durvesh24/MyLeets/tree/master/1389-create-target-array-in-the-given-order) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Durvesh24/MyLeets/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Durvesh24/MyLeets/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Durvesh24/MyLeets/tree/master/1470-shuffle-the-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Durvesh24/MyLeets/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/Durvesh24/MyLeets/tree/master/0867-transpose-matrix) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Durvesh24/MyLeets/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Durvesh24/MyLeets/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Durvesh24/MyLeets/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Durvesh24/MyLeets/tree/master/1945-sum-of-digits-of-string-after-convert) |

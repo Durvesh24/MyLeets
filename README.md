@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Durvesh24/MyLeets/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2351-first-letter-to-appear-twice](https://github.com/Durvesh24/MyLeets/tree/master/2351-first-letter-to-appear-twice) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Durvesh24/MyLeets/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Durvesh24/MyLeets/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3019-number-of-changing-keys](https://github.com/Durvesh24/MyLeets/tree/master/3019-number-of-changing-keys) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Durvesh24/MyLeets/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Durvesh24/MyLeets/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Durvesh24/MyLeets/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Durvesh24/MyLeets/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Durvesh24/MyLeets/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Durvesh24/MyLeets/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Durvesh24/MyLeets/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Durvesh24/MyLeets/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/Durvesh24/MyLeets/tree/master/1323-maximum-69-number) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Durvesh24/MyLeets/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Durvesh24/MyLeets/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Durvesh24/MyLeets/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Durvesh24/MyLeets/tree/master/1512-number-of-good-pairs) |
 | [1995-count-special-quadruplets](https://github.com/Durvesh24/MyLeets/tree/master/1995-count-special-quadruplets) |
 | [2351-first-letter-to-appear-twice](https://github.com/Durvesh24/MyLeets/tree/master/2351-first-letter-to-appear-twice) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Durvesh24/MyLeets/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Durvesh24/MyLeets/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/Durvesh24/MyLeets/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Durvesh24/MyLeets/tree/master/2351-first-letter-to-appear-twice) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Durvesh24/MyLeets/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
 |  |
 | ------- |

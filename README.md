@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Durvesh24/MyLeets/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Durvesh24/MyLeets/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Durvesh24/MyLeets/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3024-type-of-triangle](https://github.com/Durvesh24/MyLeets/tree/master/3024-type-of-triangle) |
 | [3151-special-array-i](https://github.com/Durvesh24/MyLeets/tree/master/3151-special-array-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Durvesh24/MyLeets/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3895-count-digit-appearances](https://github.com/Durvesh24/MyLeets/tree/master/3895-count-digit-appearances) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Durvesh24/MyLeets/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Durvesh24/MyLeets/tree/master/2652-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Durvesh24/MyLeets/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3024-type-of-triangle](https://github.com/Durvesh24/MyLeets/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/Durvesh24/MyLeets/tree/master/3099-harshad-number) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Durvesh24/MyLeets/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Durvesh24/MyLeets/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Durvesh24/MyLeets/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Durvesh24/MyLeets/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Durvesh24/MyLeets/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3024-type-of-triangle](https://github.com/Durvesh24/MyLeets/tree/master/3024-type-of-triangle) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Durvesh24/MyLeets/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Durvesh24/MyLeets/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
@@ -243,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Durvesh24/MyLeets/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Durvesh24/MyLeets/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/Durvesh24/MyLeets/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->

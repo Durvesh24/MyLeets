@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/Durvesh24/MyLeets/tree/master/3024-type-of-triangle) |
 | [3151-special-array-i](https://github.com/Durvesh24/MyLeets/tree/master/3151-special-array-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Durvesh24/MyLeets/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3731-find-missing-elements](https://github.com/Durvesh24/MyLeets/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/Durvesh24/MyLeets/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/Durvesh24/MyLeets/tree/master/3925-concatenate-array-with-reverse) |
 ## String
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/Durvesh24/MyLeets/tree/master/3024-type-of-triangle) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Durvesh24/MyLeets/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Durvesh24/MyLeets/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Durvesh24/MyLeets/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/Durvesh24/MyLeets/tree/master/1995-count-special-quadruplets) |
 | [2351-first-letter-to-appear-twice](https://github.com/Durvesh24/MyLeets/tree/master/2351-first-letter-to-appear-twice) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Durvesh24/MyLeets/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/Durvesh24/MyLeets/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |

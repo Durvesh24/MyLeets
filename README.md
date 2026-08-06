@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3099-harshad-number](https://github.com/Durvesh24/MyLeets/tree/master/3099-harshad-number) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Durvesh24/MyLeets/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Durvesh24/MyLeets/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Durvesh24/MyLeets/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3516-find-closest-person](https://github.com/Durvesh24/MyLeets/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/Durvesh24/MyLeets/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Durvesh24/MyLeets/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/Durvesh24/MyLeets/tree/master/1995-count-special-quadruplets) |
 | [2427-number-of-common-factors](https://github.com/Durvesh24/MyLeets/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Durvesh24/MyLeets/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Durvesh24/MyLeets/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |

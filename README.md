@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Durvesh24/MyLeets/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/Durvesh24/MyLeets/tree/master/0372-super-pow) |
 | [0412-fizz-buzz](https://github.com/Durvesh24/MyLeets/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/Durvesh24/MyLeets/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Durvesh24/MyLeets/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Durvesh24/MyLeets/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/Durvesh24/MyLeets/tree/master/1323-maximum-69-number) |

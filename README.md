@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Durvesh24/MyLeets/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/Durvesh24/MyLeets/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Durvesh24/MyLeets/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Durvesh24/MyLeets/tree/master/0242-valid-anagram) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Durvesh24/MyLeets/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Durvesh24/MyLeets/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/Durvesh24/MyLeets/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Durvesh24/MyLeets/tree/master/0242-valid-anagram) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Durvesh24/MyLeets/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Durvesh24/MyLeets/tree/master/0643-maximum-average-subarray-i) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Durvesh24/MyLeets/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 <!---LeetCode Topics End-->

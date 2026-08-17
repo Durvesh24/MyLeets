@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Durvesh24/MyLeets/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Durvesh24/MyLeets/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Durvesh24/MyLeets/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Durvesh24/MyLeets/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/Durvesh24/MyLeets/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Durvesh24/MyLeets/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Durvesh24/MyLeets/tree/master/0283-move-zeroes) |
@@ -315,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Durvesh24/MyLeets/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Durvesh24/MyLeets/tree/master/0643-maximum-average-subarray-i) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Durvesh24/MyLeets/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/Durvesh24/MyLeets/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->

@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Durvesh24/MyLeets/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/Durvesh24/MyLeets/tree/master/1672-richest-customer-wealth) |
 | [1773-count-items-matching-a-rule](https://github.com/Durvesh24/MyLeets/tree/master/1773-count-items-matching-a-rule) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/Durvesh24/MyLeets/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1920-build-array-from-permutation](https://github.com/Durvesh24/MyLeets/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Durvesh24/MyLeets/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Durvesh24/MyLeets/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |

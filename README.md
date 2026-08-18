@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Durvesh24/MyLeets/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Durvesh24/MyLeets/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Durvesh24/MyLeets/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Durvesh24/MyLeets/tree/master/0724-find-pivot-index) |
 | [0804-unique-morse-code-words](https://github.com/Durvesh24/MyLeets/tree/master/0804-unique-morse-code-words) |
 | [0867-transpose-matrix](https://github.com/Durvesh24/MyLeets/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/Durvesh24/MyLeets/tree/master/0896-monotonic-array) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Durvesh24/MyLeets/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Durvesh24/MyLeets/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Durvesh24/MyLeets/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix

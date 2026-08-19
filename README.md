@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Durvesh24/MyLeets/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Durvesh24/MyLeets/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Durvesh24/MyLeets/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Durvesh24/MyLeets/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Durvesh24/MyLeets/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Durvesh24/MyLeets/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Durvesh24/MyLeets/tree/master/0724-find-pivot-index) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Durvesh24/MyLeets/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/Durvesh24/MyLeets/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Durvesh24/MyLeets/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Durvesh24/MyLeets/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Durvesh24/MyLeets/tree/master/1920-build-array-from-permutation) |
@@ -338,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Durvesh24/MyLeets/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Durvesh24/MyLeets/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->

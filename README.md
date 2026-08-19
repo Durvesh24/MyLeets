@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Durvesh24/MyLeets/tree/master/0643-maximum-average-subarray-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Durvesh24/MyLeets/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Durvesh24/MyLeets/tree/master/0724-find-pivot-index) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Durvesh24/MyLeets/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0804-unique-morse-code-words](https://github.com/Durvesh24/MyLeets/tree/master/0804-unique-morse-code-words) |
 | [0867-transpose-matrix](https://github.com/Durvesh24/MyLeets/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/Durvesh24/MyLeets/tree/master/0896-monotonic-array) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Durvesh24/MyLeets/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/Durvesh24/MyLeets/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Durvesh24/MyLeets/tree/master/0628-maximum-product-of-three-numbers) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Durvesh24/MyLeets/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1200-minimum-absolute-difference](https://github.com/Durvesh24/MyLeets/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Durvesh24/MyLeets/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Durvesh24/MyLeets/tree/master/1464-maximum-product-of-two-elements-in-an-array) |

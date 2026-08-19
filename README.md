@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Durvesh24/MyLeets/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Durvesh24/MyLeets/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Durvesh24/MyLeets/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Durvesh24/MyLeets/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Durvesh24/MyLeets/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Durvesh24/MyLeets/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Durvesh24/MyLeets/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Durvesh24/MyLeets/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Durvesh24/MyLeets/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Durvesh24/MyLeets/tree/master/0367-valid-perfect-square) |
+| [0704-binary-search](https://github.com/Durvesh24/MyLeets/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Durvesh24/MyLeets/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Durvesh24/MyLeets/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Durvesh24/MyLeets/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |

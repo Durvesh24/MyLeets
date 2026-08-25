@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Durvesh24/MyLeets/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Durvesh24/MyLeets/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Durvesh24/MyLeets/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Durvesh24/MyLeets/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Durvesh24/MyLeets/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0804-unique-morse-code-words](https://github.com/Durvesh24/MyLeets/tree/master/0804-unique-morse-code-words) |
 | [0867-transpose-matrix](https://github.com/Durvesh24/MyLeets/tree/master/0867-transpose-matrix) |
@@ -357,4 +358,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Durvesh24/MyLeets/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Durvesh24/MyLeets/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Durvesh24/MyLeets/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

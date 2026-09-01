@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Durvesh24/MyLeets/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Durvesh24/MyLeets/tree/master/0922-sort-array-by-parity-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Durvesh24/MyLeets/tree/master/1200-minimum-absolute-difference) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Durvesh24/MyLeets/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Durvesh24/MyLeets/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Durvesh24/MyLeets/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Durvesh24/MyLeets/tree/master/1389-create-target-array-in-the-given-order) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Durvesh24/MyLeets/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Durvesh24/MyLeets/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Durvesh24/MyLeets/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Durvesh24/MyLeets/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Durvesh24/MyLeets/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/Durvesh24/MyLeets/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/Durvesh24/MyLeets/tree/master/1512-number-of-good-pairs) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Durvesh24/MyLeets/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/Durvesh24/MyLeets/tree/master/0561-array-partition) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Durvesh24/MyLeets/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/Durvesh24/MyLeets/tree/master/1323-maximum-69-number) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Durvesh24/MyLeets/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Durvesh24/MyLeets/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |

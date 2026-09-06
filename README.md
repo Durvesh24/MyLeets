@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Durvesh24/MyLeets/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Durvesh24/MyLeets/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Durvesh24/MyLeets/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Durvesh24/MyLeets/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Durvesh24/MyLeets/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Durvesh24/MyLeets/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Durvesh24/MyLeets/tree/master/0283-move-zeroes) |
@@ -184,12 +185,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Durvesh24/MyLeets/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/Durvesh24/MyLeets/tree/master/0191-number-of-1-bits) |
 | [0372-super-pow](https://github.com/Durvesh24/MyLeets/tree/master/0372-super-pow) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Durvesh24/MyLeets/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Durvesh24/MyLeets/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Durvesh24/MyLeets/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Durvesh24/MyLeets/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Durvesh24/MyLeets/tree/master/0414-third-maximum-number) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Durvesh24/MyLeets/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Durvesh24/MyLeets/tree/master/0206-reverse-linked-list) |
 ## Database
 |  |
@@ -368,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Durvesh24/MyLeets/tree/master/0739-daily-temperatures) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Durvesh24/MyLeets/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->

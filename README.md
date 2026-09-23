@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Durvesh24/MyLeets/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/Durvesh24/MyLeets/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Durvesh24/MyLeets/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -376,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Durvesh24/MyLeets/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Durvesh24/MyLeets/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

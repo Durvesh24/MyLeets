@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Durvesh24/MyLeets/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Durvesh24/MyLeets/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Durvesh24/MyLeets/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Durvesh24/MyLeets/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Durvesh24/MyLeets/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Durvesh24/MyLeets/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/Durvesh24/MyLeets/tree/master/0504-base-7) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Durvesh24/MyLeets/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Durvesh24/MyLeets/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Durvesh24/MyLeets/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/Durvesh24/MyLeets/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Durvesh24/MyLeets/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Durvesh24/MyLeets/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Durvesh24/MyLeets/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Durvesh24/MyLeets/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Durvesh24/MyLeets/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/Durvesh24/MyLeets/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Durvesh24/MyLeets/tree/master/2351-first-letter-to-appear-twice) |

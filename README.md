@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Durvesh24/MyLeets/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Durvesh24/MyLeets/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Durvesh24/MyLeets/tree/master/0237-delete-node-in-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Durvesh24/MyLeets/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Database
 |  |

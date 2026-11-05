@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Durvesh24/MyLeets/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Durvesh24/MyLeets/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Durvesh24/MyLeets/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Durvesh24/MyLeets/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Durvesh24/MyLeets/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Durvesh24/MyLeets/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Durvesh24/MyLeets/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Durvesh24/MyLeets/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Durvesh24/MyLeets/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Durvesh24/MyLeets/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/Durvesh24/MyLeets/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Durvesh24/MyLeets/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Durvesh24/MyLeets/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2351-first-letter-to-appear-twice](https://github.com/Durvesh24/MyLeets/tree/master/2351-first-letter-to-appear-twice) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Durvesh24/MyLeets/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/Durvesh24/MyLeets/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Durvesh24/MyLeets/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Durvesh24/MyLeets/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Durvesh24/MyLeets/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Durvesh24/MyLeets/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Durvesh24/MyLeets/tree/master/0922-sort-array-by-parity-ii) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Durvesh24/MyLeets/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Durvesh24/MyLeets/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Durvesh24/MyLeets/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/Durvesh24/MyLeets/tree/master/0645-set-mismatch) |
 | [0804-unique-morse-code-words](https://github.com/Durvesh24/MyLeets/tree/master/0804-unique-morse-code-words) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Durvesh24/MyLeets/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Durvesh24/MyLeets/tree/master/1512-number-of-good-pairs) |
